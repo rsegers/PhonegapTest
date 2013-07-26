@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="51" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.5212264" vertical-offset="0" max-vertical-offset="867">
+            <state line="42" column="0" selection-start="2066" selection-end="2096" vertical-scroll-proportion="-23.461538" vertical-offset="104" max-vertical-offset="1088">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagina2.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/pagina2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.5813679" vertical-offset="102" max-vertical-offset="1003">
               <folding />
             </state>
           </provider>
@@ -51,7 +60,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/pagina2.html" />
       </list>
     </option>
   </component>
@@ -177,6 +188,11 @@
       </server>
     </servers>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Reinout\HTML\Phonegap\nieuw\PhonegapTest\www" />
+    </key>
+  </component>
   <component name="RunManager">
     <list size="0" />
   </component>
@@ -282,9 +298,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="57" selection-start="519" selection-end="519" vertical-scroll-proportion="0.33066362" vertical-offset="0" max-vertical-offset="874">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="51" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.5212264" vertical-offset="0" max-vertical-offset="867">
+        <state line="42" column="0" selection-start="2066" selection-end="2096" vertical-scroll-proportion="-23.461538" vertical-offset="104" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pagina2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.5813679" vertical-offset="102" max-vertical-offset="1003">
           <folding />
         </state>
       </provider>

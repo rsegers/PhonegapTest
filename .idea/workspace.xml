@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="2066" selection-end="2096" vertical-scroll-proportion="-23.461538" vertical-offset="104" max-vertical-offset="1088">
+            <state line="40" column="58" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.31839624" vertical-offset="410" max-vertical-offset="1547">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pagina2.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pagina2.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/pagina2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.5813679" vertical-offset="102" max-vertical-offset="1003">
+            <state line="36" column="0" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
       <list>
         <option value="$PROJECT_DIR$/www/css/index.css" />
         <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/pagina2.html" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -305,16 +305,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/pagina2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="2066" selection-end="2096" vertical-scroll-proportion="-23.461538" vertical-offset="104" max-vertical-offset="1088">
+        <state line="36" column="0" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/pagina2.html">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.5813679" vertical-offset="102" max-vertical-offset="1003">
+        <state line="40" column="58" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.31839624" vertical-offset="410" max-vertical-offset="1547">
           <folding />
         </state>
       </provider>
